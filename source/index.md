@@ -1,13 +1,10 @@
 ---
-language_tabs: 
-  - shell
 toc_footers: 
   - "<a href='https://github.com/samnazarko/osmc'>Get the OSMC source code</a>"
   - "<a href='https://osmc.tv'>Back to OSMC</a>"
 includes: 
-  - errors
+  - buildenv
 search: true
-published: true
 ---
 
 # Introduction
