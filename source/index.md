@@ -1,28 +1,19 @@
 ---
-title: API Reference
-
-language_tabs:
+language_tabs: 
   - shell
-  - ruby
-  - python
-
-toc_footers:
-  - <a href='#'>Sign Up for a Developer Key</a>
-  - <a href='http://github.com/tripit/slate'>Documentation Powered by Slate</a>
-
-includes:
+toc_footers: 
+  - "<a href='https://github.com/samnazarko/osmc'>Get the OSMC source code</a>"
+  - "<a href='https://osmc.tv'>Back to OSMC</a>"
+includes: 
   - errors
-
 search: true
 ---
 
 # Introduction
 
-Welcome to the Kittn API! You can use our API to access Kittn API endpoints, which can get information on various cats, kittens, and breeds in our database.
+Welcome to the OSMC technical documentation. This documentation will help you understand the OSMC development and build processes. This is useful to anyone that wants to build and contribute to OSMC as well as anyone that is just curious as to the inner workings of the project.
 
-We have language bindings in Shell, Ruby, and Python! You can view code examples in the dark area to the right, and you can switch the programming language of the examples with the tabs in the top right.
-
-This example API documentation page was created with [Slate](http://github.com/tripit/slate). Feel free to edit it and use it as a base for your own API's documentation.
+This documentation can be found and edited on GitHub [here] (https://github.com/samnazarko/osmc-docs). Feel free to fork it and make any changes if you feel something's missing or not quite right!
 
 # Authentication
 
